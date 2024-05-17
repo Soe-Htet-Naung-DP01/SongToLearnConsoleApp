@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee4497b1-0409-4a54-aab8-a3589fa77edf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/songs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/songs.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b4iByT97s2FrsZT7QtlMdMSZ6G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="assignment1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assignment-01-songs-app-Soe-Htet-Naung" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.assignment1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee4497b1-0409-4a54-aab8-a3589fa77edf" name="Default Changelist" comment="" />
+      <created>1587897634307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587897634307</updated>
+    </task>
+    <task id="LOCAL-00001" summary="started">
+      <created>1587897759330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587897759331</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added Menu output&#10;To add more selective menu and outputs">
+      <created>1587968953925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587968953925</updated>
+    </task>
+    <task id="LOCAL-00003" summary="imported csv module&#10;added songs counter&#10;to work on more menu outputs and selections later on">
+      <created>1587973928964</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587973928964</updated>
+    </task>
+    <task id="LOCAL-00004" summary="decided not to use csv module&#10;changed the whole code&#10;added list_songs and menu choices&#10;To do: add_songs, complete songs and exit function">
+      <created>1587997008086</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587997008086</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added add_songs and check_number functions&#10;To do:complete songs and exit function">
+      <created>1587999459892</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587999459892</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added complete_song and exit_functions&#10;to do: fix error that &quot;-1&quot; value is being accepted in complete song function">
+      <created>1588000599998</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588000599998</updated>
+    </task>
+    <task id="LOCAL-00007" summary="the error is found in 2nd time input of - value&#10;to do: fix error that minus value is being accepted in complete song function">
+      <created>1588000999830</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588000999830</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added some documentation and comments&#10;to do: fix error that minus value is being accepted in complete song function&#10;and add more comments and documentation">
+      <created>1588001959392</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588001959392</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added more comments&#10;edited error handling parts for user inputs in add_songs function&#10;to do: fix errors, add more comments">
+      <created>1588002948342</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588002948342</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fixed errors and added more comments&#10;To do: check before submitting and edit into better codes if poosible">
+      <created>1588003775892</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588003775892</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added more comments &#10;ready to submit">
+      <created>1588004024864</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1588004024864</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added in complete_songs function what to do when there is &quot;No more songs to learn&quot;&#10;To do: recheck the program">
+      <created>1588050874160</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1588050874160</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="started" />
+    <MESSAGE value="added Menu output&#10;To add more selective menu and outputs" />
+    <MESSAGE value="imported csv module&#10;added songs counter&#10;to work on more menu outputs and selections later on" />
+    <MESSAGE value="decided not to use csv module&#10;changed the whole code&#10;added list_songs and menu choices&#10;To do: add_songs, complete songs and exit function" />
+    <MESSAGE value="added add_songs and check_number functions&#10;To do:complete songs and exit function" />
+    <MESSAGE value="added complete_song and exit_functions&#10;to do: fix error that &quot;-1&quot; value is being accepted in complete song function" />
+    <MESSAGE value="the error is found in 2nd time input of - value&#10;to do: fix error that minus value is being accepted in complete song function" />
+    <MESSAGE value="added some documentation and comments&#10;to do: fix error that minus value is being accepted in complete song function&#10;and add more comments and documentation" />
+    <MESSAGE value="added more comments&#10;edited error handling parts for user inputs in add_songs function&#10;to do: fix errors, add more comments" />
+    <MESSAGE value="fixed errors and added more comments&#10;To do: check before submitting and edit into better codes if poosible" />
+    <MESSAGE value="added more comments &#10;ready to submit" />
+    <MESSAGE value="added in complete_songs function what to do when there is &quot;No more songs to learn&quot;&#10;To do: recheck the program" />
+    <option name="LAST_COMMIT_MESSAGE" value="added in complete_songs function what to do when there is &quot;No more songs to learn&quot;&#10;To do: recheck the program" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="643" y="126" key="CommitChangelistDialog2" timestamp="1588050873043">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="643" y="126" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1588050873043" />
+    <state x="260" y="298" key="FileChooserDialogImpl" timestamp="1587976893530">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="260" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1587976893530" />
+    <state width="1899" height="294" key="GridCell.Tab.0.bottom" timestamp="1588057056479">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588057056479" />
+    <state width="1899" height="294" key="GridCell.Tab.0.center" timestamp="1588057056479">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588057056479" />
+    <state width="1899" height="294" key="GridCell.Tab.0.left" timestamp="1588057056479">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588057056479" />
+    <state width="1899" height="294" key="GridCell.Tab.0.right" timestamp="1588057056479">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588057056479" />
+    <state x="0" y="185" key="SettingsEditor" timestamp="1587897740379">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1587897740379" />
+    <state x="72" y="276" key="Vcs.Push.Dialog.v2" timestamp="1588058665042">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="72" y="276" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1588058665042" />
+    <state x="953" y="0" width="974" height="1087" key="dock-window-1" timestamp="1588052688481">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="953" y="0" width="974" height="1087" key="dock-window-1/0.0.1920.1080@0.0.1920.1080" timestamp="1588052688481" />
+  </component>
+</project>
